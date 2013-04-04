@@ -1,0 +1,53 @@
+﻿body {
+}
+
+#inkCont div{
+    padding:0;
+    margin:0;
+    width:800px;
+    float:left;
+}
+
+#template {
+    height:1035px;
+    width:800px;
+    overflow:hidden;
+    margin:0 auto;
+    margin-left: 1px;
+    width:802px;
+    left: 0px;
+    position:absolute;
+    z-index:1;
+    background:#ffffff;
+}
+
+#inkCanvas {
+    height:1035px;
+ 	width:800px;
+ 	margin:0 auto;
+ 	float:left;
+ 	clear:none;
+	position:absolute;
+ 	z-index:2;
+    cursor:url(../images/cursors/SmallDot.cur), default;
+}
+
+#functionalityCont {
+   left: 850px;
+   position: absolute;
+   top: 50px;
+}
+
+
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

@@ -1,0 +1,13 @@
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bin\Debug\resources.pri
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bin\Debug\AppxManifest.xml
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bin\Debug\SampleInking.build.appxrecipe
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\priconfig.xml.intermediate
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\layout.resfiles.intermediate
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\resources.resfiles.intermediate
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\pri.resfiles.intermediate
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\priconfig.xml
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\layout.resfiles
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\resources.resfiles
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\pri.resfiles
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\LanguageQualifiers.txt
+c:\users\jlange\documents\visual studio 2012\Projects\SampleInking\SampleInking\bld\Debug\ProjectArchitectures.txt

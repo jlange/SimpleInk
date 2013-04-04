@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SampleInking</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- SampleInking references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/program.js"></script>
+</head>
+<body>
+    <div id="inkCont">
+        <div id="inkCanvas">
+            <svg id="canvas" width="800" height="1035" xmlns="http://www.w3.org/2000/svg">
+             <g>
+              <title>Layer 1</title>
+               <g id="ink_BDR_0">
+	            <rect stroke-width="0.5" fill="#ffffff" opacity="0" y="25" x="20" height="50" width="740" name="border"></rect>
+               </g>
+               <g id="ink_BDR_1" >
+	            <rect y="125" x="20" stroke-width="0.5" fill="#ffffff" opacity="0" height="50" width="740" name="border"></rect>
+               </g>
+               <g id="ink_BDR_2">
+	            <rect y="225" x="20" stroke-width="0.5" fill="#ffffff" opacity="0" height="50" width="740" name="border"></rect>
+               </g>
+               <g id="ink_BDR_3">
+	            <rect y="325" x="20" stroke-width="0.5" fill="#ffffff" opacity="0" height="50" width="740" name="border"></rect>
+	            </g>
+             </g>
+            </svg>
+        </div>
+        <div id="template">
+            <svg width="800" height="1035" xmlns="http://www.w3.org/2000/svg">
+             <g>
+              <title>Layer 1</title>
+               <rect id="BDR_0" stroke-width="0.5" stroke="#22C" fill="#ffffff" y="25" x="20" height="50" width="740" name="border"></rect>
+               <rect id="BDR_1" y="125" x="20" stroke-width="0.5" stroke="#22C" fill="#ffffff" height="50" width="740" name="border"></rect>
+               <rect id="BDR_2" y="225" x="20" stroke-width="0.5" stroke="#22C" fill="#ffffff" height="50" width="740" name="border"></rect>
+               <rect id="BDR_3" y="325" x="20" stroke-width="0.5" stroke="#22C" fill="#ffffff" height="50" width="740" name="border"></rect>
+             </g>
+            </svg>
+        </div>
+    </div>
+    <div id="functionalityCont">
+        <button id="recognizeStrokes">
+            Recognize
+        </button>
+        <progress class="win-ring"></progress>
+    </div>
+    
+</body>
+</html>
